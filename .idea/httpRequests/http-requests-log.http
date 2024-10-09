@@ -1,0 +1,173 @@
+POST http://localhost:8080/api/exchange?sourceCurrency=USD&targetCurrency=EUR&amount=100
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-10-08T204608.200.json
+
+###
+
+POST http://localhost:8080/api/exchange?sourceCurrency=USD&targetCurrency=EUR&amount=100
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-10-08T202854.500.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Type: application/json
+Content-Length: 73
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sourceCurrency": "USD",
+  "targetCurrency": "EUR",
+  "amount": 100
+}
+
+<> 2024-10-08T202830.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Type: application/json
+Content-Length: 72
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: key=first-value
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sourceCurrency":"USD",
+  "targetCurrency":"SOL",
+  "amount": 1.00
+}
+
+<> 2024-10-08T202601.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Type: application/json
+Content-Length: 72
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sourceCurrency":"USD",
+  "targetCurrency":"SOL",
+  "amount": 1.00
+}
+
+<> 2024-10-08T202551.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sourceCurrency":"USD",
+  "targetCurrency":"SOL",
+  "amount":1.0
+}
+
+<> 2024-10-08T202529.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Type: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sourceCurrency":"USD",
+  "targetCurrency":"SOL",
+  "amount":1.0
+}
+
+<> 2024-10-08T202456.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"sourceCurrency":"USD",
+"targetCurrency":"SOL",
+"amount":1.0
+}
+
+<> 2024-10-08T202406.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"sourceCurrency":"USD",
+"targetCurrency":"SOL",
+"amount":"1"
+}
+
+<> 2024-10-08T202354.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Length: 62
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"sourceCurrency":"USD",
+"targetCurrency":"SOL",
+"amount":"1"}
+
+<> 2024-10-08T202316.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-10-08T202036.400.json
+
+###
+
+POST http://localhost:8080/api/exchange
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-10-08T201935.400.json
+
+###
+

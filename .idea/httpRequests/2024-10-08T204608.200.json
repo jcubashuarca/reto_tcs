@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "sourceCurrency": "USD",
+  "targetCurrency": "EUR",
+  "amount": 100.0,
+  "exchangeRate": 0.911258,
+  "convertedAmount": 91.1258
+}

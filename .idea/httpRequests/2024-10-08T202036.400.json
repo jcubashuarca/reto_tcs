@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-10-09T00:20:36.230+00:00",
+  "path": "/api/exchange",
+  "status": 400,
+  "error": "Bad Request",
+  "requestId": "00b38099-4"
+}
